@@ -19,7 +19,7 @@ classifiers = [
 keywords = ["api", "graphql", "protocol", "rest", "relay", "graphene", "pydantic", "model"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.7"
 # To keep things simple, we only support newer versions of Graphene & Pydantic
 graphene = ">=3.0b5"
 pydantic = "^1.8"
